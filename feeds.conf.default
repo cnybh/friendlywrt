@@ -1,5 +1,5 @@
 src-git packages https://github.com/friendlyarm/friendlywrt_project_packages^5b22f3f59c03412200fe4815d833943f953edf2b
-src-git luci https://github.com/friendlyarm/friendlywrt_project_luci^28fc0fa6d90a8eb3db0c93e749ed5aefdbfc4f8a
+src-git luci https://github.com/cnybh/friendlywrt_project_luci.git;openwrt-18.06
 src-git routing https://git.openwrt.org/feed/routing.git^f1b0476edc5486793e098fe83089054bb2941663
 src-git telephony https://git.openwrt.org/feed/telephony.git^6f95d6ab3f359ee2ce81c20522700937424d1591
 #src-git video https://github.com/openwrt/video.git
@@ -7,4 +7,4 @@ src-git telephony https://git.openwrt.org/feed/telephony.git^6f95d6ab3f359ee2ce8
 #src-git management https://github.com/openwrt-management/packages.git
 #src-git oldpackages http://git.openwrt.org/packages.git
 #src-link custom /usr/src/openwrt/custom-feed
-src-git lienol https://github.com/Lienol/openwrt-package
+src-git lienol https://github.com/Lienol/openwrt-package.git;master
